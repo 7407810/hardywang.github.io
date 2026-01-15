@@ -3,7 +3,7 @@
 <h4 style="margin:0 10px 0;">Algorithm Engineer (2023-07 -- Present)</h4>
 
 <ul style="margin:0 0 5px;">
-  Guoneng Digital Intelligence Technology Development (Beijing) Co., Ltd., Beijing, China
+  Chn Energy Digital Intelligence Technology Development (Beijing) CO., LTD., Beijing, China
 </ul>
 
 <br>

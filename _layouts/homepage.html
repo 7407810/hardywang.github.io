@@ -32,6 +32,29 @@
           else
               e.style.display = 'none';
       }
+
+      // Language switcher function
+      function switchLanguage(lang) {
+          // Redirect to the corresponding language page
+          if (lang === 'zh') {
+              window.location.href = './index.zh.html';
+          } else {
+              window.location.href = './index.html';
+          }
+      }
+
+      // Set the default language based on the current URL
+      document.addEventListener('DOMContentLoaded', function() {
+          var currentPath = window.location.pathname;
+          var select = document.getElementById('language-select');
+          if (select) {
+              if (currentPath.includes('index.zh.html')) {
+                  select.value = 'zh';
+              } else {
+                  select.value = 'en';
+              }
+          }
+      });
    </script>
 
   </head>
@@ -59,6 +82,19 @@
           text-align: center;
           line-height: 30px;
           height: 30px;
+        }
+        
+        .language-switcher {
+          margin-bottom: 10px;
+        }
+        
+        .language-switcher select {
+          padding: 5px 10px;
+          border: 1px solid #ccc;
+          border-radius: 4px;
+          background-color: white;
+          font-size: 1rem;
+          color: #333;
         }
     </style>
 
@@ -91,6 +127,14 @@
         <br>
         <br>
         <div class="social-icons">
+        <!-- Language switcher -->
+        <div class="language-switcher">
+          <select id="language-select" onchange="switchLanguage(this.value)">
+            <option value="en">English</option>
+            <option value="zh">中文</option>
+          </select>
+        </div>
+        <br>
         {% if site.cv_link %}
         <a style="margin: 0 0 0 0" href="{{ site.cv_link }}" target="_blank">
           <i class="ai ai-cv" style="font-size:1.3rem;"></i>

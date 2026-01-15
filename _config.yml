@@ -5,6 +5,12 @@ position: Researcher
 # affiliation: N/A
 email: whd593666621@163.com
 
+# Language settings
+lang: en-US
+lang_alternatives:
+  en: English
+  zh: 中文
+
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Hardy Wang, 汪昊典, low-level vision

@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Research Scientist at Guoneng Digital Intelligence Technology Development (Beijing) Co., Ltd. I obtained my Master's degree from the University of Science and Technology of China (USTC) in 2023, and prior to that, I completed my undergraduate studies at North China Electric Power University.
+I am a Research Scientist at Chn Energy Digital Intelligence Technology Development (Beijing) CO., LTD. I obtained my Master's degree from the University of Science and Technology of China (USTC) in 2023, and prior to that, I completed my undergraduate studies at North China Electric Power University.
 
 
 ## Research Interests
