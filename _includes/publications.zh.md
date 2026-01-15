@@ -17,4 +17,58 @@
   <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">PRCV</abbr> </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">基于状态空间模型的亮度-纹理联合建模用于空间不一致增强</div>
-    <div class="author"><b style="color:#a82e26">汪昊典</b>, 李瑞, 宋阳, 闫龙<span class="superscript
+    <div class="author"><b style="color:#a82e26">汪昊典</b>, 李瑞, 宋阳, 闫龙<span class="superscript">&#9993;</span></div>
+    <div class="periodical"><em>中国模式识别与计算机视觉会议 (PRCV), 2025.</em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">MMM</abbr> </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">基于频率域的无监督低光照图像增强框架</div>
+    <div class="author"><b style="color:#a82e26">汪昊典</b><span class="superscript">&#9993;</span></div>
+    <div class="periodical"><em>国际多媒体建模会议 (MMM), 2025.</em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">ICIC</abbr> </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">基于视觉-语言模型的双注意力引导用于曝光一致的光照增强</div>
+    <div class="author"><b style="color:#a82e26">汪昊典</b><span class="superscript">&#9993;</span>, 隋磊<span class="superscript">&#9993;</span></div>
+    <div class="periodical"><em>国际智能计算会议 (ICIC), 2025.</em></div>
+  </div>
+</div>
+</li>
+
+<!-- 2023年 -->
+<h3 class="bibliography-year" style="font-size: 1.3rem; padding-bottom:5px; border-bottom: 1px solid #ddd;"> 2023 </h3>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">IEEE TAI</abbr> </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">基于亮度感知的递归低光照图像增强</div>
+    <div class="author"><b style="color:#a82e26">汪昊典</b>, 彭亮, 孙悦, 万智, 王岩<span class="superscript">&#9993;</span>, 曹洋<span class="superscript">&#9993;</span></div>
+    <div class="periodical"><em>IEEE人工智能汇刊 (TAI), 2023.</em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">MMM</abbr> </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">基于融合的低光照图像增强</div>
+    <div class="author"><b style="color:#a82e26">汪昊典</b>, 王岩, 曹洋, 查正军<span class="superscript">&#9993;</span></div>
+    <div class="periodical"><em>国际多媒体建模会议 (MMM), 2023.</em></div>
+  </div>
+</div>
+</li>
+
+</ol>
+</div>
