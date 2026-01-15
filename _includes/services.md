@@ -3,7 +3,7 @@
 <!-- 请在这里填写你的服务经历 -->
 <!-- 包括会议审稿、期刊审稿等 -->
 
-<h4 style="margin:0 10px 0;">Conference Reviewers / Program Committee</h4>
+<h4 style="margin:0 10px 0;">Conference Reviewer / Program Committee</h4>
 
 <ul style="margin:0 0 5px;">
   <li>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</li>
@@ -20,7 +20,7 @@
   <li>Pacific Rim International Conference on Artificial Intelligence (PRICAI)</li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<h4 style="margin:0 10px 0;">Journal Reviewer</h4>
 
 <ul style="margin:0 0 20px;">
   <li>IEEE Transactions on Artificial Intelligence (TAI)</li>
