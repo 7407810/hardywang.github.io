@@ -3,20 +3,27 @@
 <!-- 请在这里填写你的服务经历 -->
 <!-- 包括会议审稿、期刊审稿等 -->
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">Conference Reviewers / Program Committee</h4>
 
 <ul style="margin:0 0 5px;">
-  <!-- <li><a href="会议链接" target="_blank"><autocolor>会议名称 (年份)</autocolor></a></li> -->
-  <!-- 示例： -->
-  <!-- <li><a href="http://cvpr2023.thecvf.com/" target="_blank"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li> -->
+  <li>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</li>
+  <li>IEEE/CVF International Conference on Computer Vision (ICCV)</li>
+  <li>International Conference on Learning Representations (ICLR)</li>
+  <li>AAAI Conference on Artificial Intelligence (AAAI)</li>
+  <li>ACM International Conference on Multimedia (MM)</li>
+  <li>International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</li>
+  <li>Chinese Conference on Pattern Recognition and Computer Vision (PRCV)</li>
+  <li>International Joint Conference on Neural Networks (IJCNN)</li>
+  <li>International Conference on Multimedia Modeling (MMM)</li>
+  <li>International Conference on Intelligent Computing (ICIC)</li>
+  <li>Computational Visual Media Conference (CVM)</li>
+  <li>Pacific Rim International Conference on Artificial Intelligence (PRICAI)</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <!-- <li><a href="期刊链接" target="_blank"><autocolor>期刊名称</autocolor></a></li> -->
-  <!-- 示例： -->
-  <!-- <li><a href="https://mc.manuscriptcentral.com/tpami-cs" target="_blank"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li> -->
+  <li>IEEE Transactions on Artificial Intelligence (TAI)</li>
 </ul>
 
 <!-- ## Contact

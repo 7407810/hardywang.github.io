@@ -1,27 +1,23 @@
 ## Experience
 
-<!-- 请在这里填写你的工作/学习经历 -->
-<!-- 格式示例： -->
-
-<!-- 
-<h4 style="margin:0 10px 0;">职位名称 (YYYY-MM -- YYYY-MM)</h4>
+<h4 style="margin:0 10px 0;">Algorithm Engineer (2023-07 -- Present)</h4>
 
 <ul style="margin:0 0 5px;">
-  机构名称, 城市, 国家
-  <br>
-  导师/合作者: <a href="链接" target="_blank">姓名</a>
+  Guoneng Digital Intelligence Technology Development (Beijing) Co., Ltd., Beijing, China
 </ul>
--->
 
-<!-- 示例： -->
-<!-- 
-<h4 style="margin:0 10px 0;">Research Scientist (2021-08 -- 2024-12)</h4>
+<br>
+
+## Education
+
+<h4 style="margin:0 10px 0;">M.S. in Electronic Information (2020-09 -- 2023-06)</h4>
 
 <ul style="margin:0 0 5px;">
-  JD Explore Academy (JDEA), JD.com, Beijing, China
-  <br>
-  Leader: Prof. <a href="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en" target="_blank">Dacheng Tao</a>
+  University of Science and Technology of China (USTC), Hefei, China
 </ul>
--->
 
-<p></p>
+<h4 style="margin:0 10px 0;">B.S. in Measurement and Control Technology and Instruments (2015-06 -- 2019-09)</h4>
+
+<ul style="margin:0 0 5px;">
+  North China Electric Power University, Beijing, China
+</ul>

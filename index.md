@@ -4,32 +4,24 @@ layout: homepage
 
 ## About Me
 
-<!-- 请在这里填写个人简介 -->
-<!-- 示例：介绍你的教育背景、研究方向、工作经历等 -->
-<!-- 可以包含中英文双语介绍 -->
-
-I am a researcher focusing on low-level vision. [在此处添加你的个人简介]
+I am a Research Scientist at Guoneng Digital Intelligence Technology Development (Beijing) Co., Ltd. I obtained my Master's degree from the University of Science and Technology of China (USTC) in 2023, and prior to that, I completed my undergraduate studies at North China Electric Power University.
 
 
 ## Research Interests
 
-<!-- 请在这里填写你的研究兴趣 -->
-<!-- 可以列出具体的研究方向和子领域 -->
-
-My research interests include:
-- Low-light image enhancement
-- Image deblurring
-- [添加更多研究方向]
+My research focuses on the exciting field of image enhancement and its practical applications. By improving the quality of low-light or otherwise suboptimal images, this work enables more accurate analysis and decision-making in areas such as surveillance, medical imaging, and remote sensing.
 
 
 ## News
 
-<!-- 请在这里填写最新的新闻动态 -->
-<!-- 格式示例：<li><strong>[YYYY-MM-DD]</strong> 新闻内容</li> -->
-
 <ul>
-  <li><strong>[2025-01-14]</strong> Website is under construction.</li>
-  <!-- <li><strong>[YYYY-MM-DD]</strong> Your news here.</li> -->
+  <li><strong>[2025-09-21]</strong> One paper is accepted to PRCV 2025.</li>
+  <li><strong>[2025-04-28]</strong> One paper is accepted to ICIC 2025 as <strong>Oral</strong>.</li>
+  <li><strong>[2024-10-24]</strong> One paper is accepted to MMM 2025.</li>
+  <li><strong>[2023-12-08]</strong> One paper is accepted to IEEE TAI.</li>
+  <li><strong>[2023-06-30]</strong> 🎉🎉 I successfully obtained my Master's degree!</li>
+  <li><strong>[2022-10-22]</strong> One paper is accepted to MMM 2023 as <strong>Oral</strong>.</li>
+  <li><strong>[2020-09-01]</strong> 🎉🎉 I start my research journey from USTC!</li>
 </ul>
 
 {% include_relative _includes/publications.md %}

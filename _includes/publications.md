@@ -13,29 +13,66 @@ I marked my name in <b style="color:#a82e26">Red</b> if I am the (co-)first or c
 
 <ol class="bibliography">
 
-<!-- 示例：按年份分类 -->
-<!-- 
+<!-- 2025年 -->
 <h3 class="bibliography-year" style="font-size: 1.3rem; padding-bottom:5px; border-bottom: 1px solid #ddd;"> 2025 </h3>
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">CVPR</abbr> </div>
+  <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">PRCV</abbr> </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="论文链接" target="_blank">论文标题</a></div>
-    <div class="author">作者1<span class="superscript">*</span>, <b style="color:#a82e26">Hardy Wang</b>, 作者3, 作者4</div>
-    <div class="periodical"><em>会议/期刊名称, 2025.</em></div>
-    <div class="links">
-      <a href="arXiv链接" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
-      <a href="PDF链接" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="项目页链接" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="代码链接" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
+    <div class="title">Brightness-Texture Co-Modeling for Spatially Inconsistent Enhancement via State Space Model</div>
+    <div class="author"><b style="color:#a82e26">H Wang</b>, R Li, Y Song, L Yan<sup>&#9993;</sup></div>
+    <div class="periodical"><em>Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2025.</em></div>
   </div>
 </div>
 </li>
--->
 
-<!-- 请在此处添加你的论文 -->
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">MMM</abbr> </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Frequency-based unsupervised low-light image enhancement framework</div>
+    <div class="author"><b style="color:#a82e26">H Wang</b><sup>&#9993;</sup></div>
+    <div class="periodical"><em>International Conference on Multimedia Modeling (MMM), 2025.</em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">ICIC</abbr> </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Dual attention guidance with vision-language models for exposure-consistent illumination enhancement</div>
+    <div class="author"><b style="color:#a82e26">H Wang</b><sup>*</sup>, L Sui<sup>*</sup></div>
+    <div class="periodical"><em>International Conference on Intelligent Computing (ICIC), 2025.</em></div>
+  </div>
+</div>
+</li>
+
+<!-- 2023年 -->
+<h3 class="bibliography-year" style="font-size: 1.3rem; padding-bottom:5px; border-bottom: 1px solid #ddd;"> 2023 </h3>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">IEEE TAI</abbr> </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Brightness perceiving for recursive low-light image enhancement</div>
+    <div class="author"><b style="color:#a82e26">H Wang</b>, L Peng, Y Sun, Z Wan, Y Wang<sup>&#9993;</sup>, Y Cao<sup>&#9993;</sup></div>
+    <div class="periodical"><em>IEEE Transactions on Artificial Intelligence, 2023.</em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">MMM</abbr> </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Fusion-based low-light image enhancement</div>
+    <div class="author"><b style="color:#a82e26">H Wang</b>, Y Wang, Y Cao, ZJ Zha<sup>&#9993;</sup></div>
+    <div class="periodical"><em>International Conference on Multimedia Modeling (MMM), 2023.</em></div>
+  </div>
+</div>
+</li>
 
 </ol>
 </div>
