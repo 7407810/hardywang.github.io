@@ -8,7 +8,7 @@
 
 <span class="superscript">*</span>: Co-First Authors, <span class="superscript">#</span>: Supervised Students, <span class="superscript">&#9993;</span>: Corresponding Authors
 <br>
-I marked my name in <b style="color:#FFA04D">Orange</b> if I am the (co-)first or corresponding author, or the mentor of the first author.
+I marked my name in <b style="color:#a82e26">Red</b> if I am the (co-)first or corresponding author, or the mentor of the first author.
 <br><br>
 
 <ol class="bibliography">
@@ -21,7 +21,7 @@ I marked my name in <b style="color:#FFA04D">Orange</b> if I am the (co-)first o
   <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">PRCV</abbr> </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Brightness-Texture Co-Modeling for Spatially Inconsistent Enhancement via State Space Model</div>
-    <div class="author"><b style="color:#FFA04D">H Wang</b>, R Li, Y Song, L Yan<sup>&#9993;</sup></div>
+    <div class="author"><b style="color:#a82e26">H Wang</b>, R Li, Y Song, L Yan<sup>&#9993;</sup></div>
     <div class="periodical"><em>Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2025.</em></div>
   </div>
 </div>
@@ -32,7 +32,7 @@ I marked my name in <b style="color:#FFA04D">Orange</b> if I am the (co-)first o
   <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">MMM</abbr> </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Frequency-based unsupervised low-light image enhancement framework</div>
-    <div class="author"><b style="color:#FFA04D">H Wang</b><sup>&#9993;</sup></div>
+    <div class="author"><b style="color:#a82e26">H Wang</b><sup>&#9993;</sup></div>
     <div class="periodical"><em>International Conference on Multimedia Modeling (MMM), 2025.</em></div>
   </div>
 </div>
@@ -43,7 +43,7 @@ I marked my name in <b style="color:#FFA04D">Orange</b> if I am the (co-)first o
   <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">ICIC</abbr> </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Dual attention guidance with vision-language models for exposure-consistent illumination enhancement</div>
-    <div class="author"><b style="color:#FFA04D">H Wang</b><sup>*</sup>, L Sui<sup>*</sup></div>
+    <div class="author"><b style="color:#a82e26">H Wang</b><sup>*</sup>, L Sui<sup>*</sup></div>
     <div class="periodical"><em>International Conference on Intelligent Computing (ICIC), 2025.</em></div>
   </div>
 </div>
@@ -57,7 +57,7 @@ I marked my name in <b style="color:#FFA04D">Orange</b> if I am the (co-)first o
   <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">IEEE TAI</abbr> </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Brightness perceiving for recursive low-light image enhancement</div>
-    <div class="author"><b style="color:#FFA04D">H Wang</b>, L Peng, Y Sun, Z Wan, Y Wang<sup>&#9993;</sup>, Y Cao<sup>&#9993;</sup></div>
+    <div class="author"><b style="color:#a82e26">H Wang</b>, L Peng, Y Sun, Z Wan, Y Wang<sup>&#9993;</sup>, Y Cao<sup>&#9993;</sup></div>
     <div class="periodical"><em>IEEE Transactions on Artificial Intelligence, 2023.</em></div>
   </div>
 </div>
@@ -68,7 +68,7 @@ I marked my name in <b style="color:#FFA04D">Orange</b> if I am the (co-)first o
   <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">MMM</abbr> </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Fusion-based low-light image enhancement</div>
-    <div class="author"><b style="color:#FFA04D">H Wang</b>, Y Wang, Y Cao, ZJ Zha<sup>&#9993;</sup></div>
+    <div class="author"><b style="color:#a82e26">H Wang</b>, Y Wang, Y Cao, ZJ Zha<sup>&#9993;</sup></div>
     <div class="periodical"><em>International Conference on Multimedia Modeling (MMM), 2023.</em></div>
   </div>
 </div>
