@@ -51,6 +51,24 @@
               document.body.classList.add('dark-mode');
           }
           
+          // Update color description text based on dark mode
+          function updateColorDescription() {
+              const isDark = document.body.classList.contains('dark-mode');
+              const isChinese = currentPath.includes('index.zh.html');
+              const colorDescriptions = document.querySelectorAll('.color-description');
+              
+              colorDescriptions.forEach(function(element) {
+                  if (isDark) {
+                      element.textContent = isChinese ? '橙色' : 'Orange';
+                  } else {
+                      element.textContent = isChinese ? '红色' : 'Red';
+                  }
+              });
+          }
+          
+          // Update color description on initial load
+          updateColorDescription();
+          
           // Language switch event
           languageSwitch.addEventListener('change', function() {
               if (this.checked) {
@@ -64,6 +82,7 @@
           darkModeSwitch.addEventListener('change', function() {
               document.body.classList.toggle('dark-mode');
               localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
+              updateColorDescription();
           });
       });
    </script>

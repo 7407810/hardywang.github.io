@@ -8,7 +8,7 @@
 
 <span class="superscript">*</span>: Co-First Authors, <span class="superscript">#</span>: Supervised Students, <span class="superscript">&#9993;</span>: Corresponding Authors
 <br>
-I marked my name in <b style="color:#a82e26">Orange</b> if I am the (co-)first or corresponding author, or the mentor of the first author.
+I marked my name in <b style="color:#a82e26" class="color-description">Red</b> if I am the (co-)first or corresponding author, or the mentor of the first author.
 <br><br>
 
 <ol class="bibliography">
@@ -43,7 +43,7 @@ I marked my name in <b style="color:#a82e26">Orange</b> if I am the (co-)first o
   <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">ICIC</abbr> </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Dual attention guidance with vision-language models for exposure-consistent illumination enhancement</div>
-    <div class="author"><b style="color:#a82e26">H Wang</b><sup>*</sup>, L Sui<sup>*</sup></div>
+    <div class="author"><b style="color:#a82e26">H Wang</b><sup>&#9993;</sup>, L Sui<sup>&#9993;</sup></div>
     <div class="periodical"><em>International Conference on Intelligent Computing (ICIC), 2025.</em></div>
   </div>
 </div>
