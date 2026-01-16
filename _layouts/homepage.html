@@ -255,6 +255,14 @@
         body.dark-mode strong {
           color: #00E6F6;
         }
+        
+        /* Mobile-specific styles */
+        @media (max-width: 768px) {
+          body:not(.dark-mode) #headcolor {
+            background: #ffffff;
+            color: #333;
+          }
+        }
     </style>
 
     <!-- Top-right controls -->
