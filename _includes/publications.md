@@ -8,7 +8,7 @@
 
 <span class="superscript">*</span>: Co-First Authors, <span class="superscript">#</span>: Supervised Students, <span class="superscript">&#9993;</span>: Corresponding Authors
 <br>
-I marked my name in <b style="color:#a82e26">Red</b> if I am the (co-)first or corresponding author, or the mentor of the first author.
+I marked my name in <b style="color:#a82e26">Orange</b> if I am the (co-)first or corresponding author, or the mentor of the first author.
 <br><br>
 
 <ol class="bibliography">

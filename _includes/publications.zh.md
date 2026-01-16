@@ -4,7 +4,7 @@
 
 <span class="superscript">*</span>: 共同一作, <span class="superscript">&#9993;</span>: 通讯作者
 <br>
-如果我是第一作者、通讯作者或指导第一作者，我的名字将以 <b style="color:#a82e26">红色</b> 标记。
+如果我是第一作者、通讯作者或指导第一作者，我的名字将以 <b style="color:#a82e26">橙色</b> 标记。
 <br><br>
 
 <ol class="bibliography">
