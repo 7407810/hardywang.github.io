@@ -71,7 +71,6 @@
           
           // Language switch event
           languageSwitch.addEventListener('change', function() {
-              sessionStorage.setItem('languageSwitch', 'true');
               if (this.checked) {
                   window.location.href = './index.zh.html';
               } else {
@@ -191,66 +190,6 @@
       opacity: 0;
       visibility: hidden;
     }
-
-    /* Scroll Progress Bar */
-    #scroll-progress {
-      position: fixed;
-      top: 0;
-      left: 0;
-      height: 3px;
-      width: 0%;
-      background: linear-gradient(90deg, #a82e26, #c83e36);
-      z-index: 9999;
-      transition: width 0.1s ease;
-    }
-
-    body.dark-mode #scroll-progress {
-      background: linear-gradient(90deg, #FFA04D, #FFB06D);
-    }
-
-    /* Typewriter Effect */
-    .typewriter {
-      font-size: 16px;
-      color: #a82e26;
-      border-right: 2px solid #a82e26;
-      white-space: nowrap;
-      overflow: hidden;
-      animation: blink 0.8s infinite;
-      margin-top: 8px;
-      display: inline-block;
-    }
-
-    body.dark-mode .typewriter {
-      color: #FFA04D;
-      border-color: #FFA04D;
-    }
-
-    @keyframes blink {
-      50% {
-        border-color: transparent;
-      }
-    }
-
-    /* Reveal Animation */
-    .reveal {
-      opacity: 0;
-      transform: translateY(30px);
-      transition: all 0.8s ease;
-    }
-
-    .reveal.active {
-      opacity: 1;
-      transform: translateY(0);
-    }
-
-    /* Project Card Hover Effect */
-    .pub-row {
-      transition: transform 0.25s ease, box-shadow 0.25s ease;
-    }
-
-    .pub-row:hover {
-      transform: translateY(-5px) rotateX(2deg) rotateY(-2deg);
-    }
   </style>
   </head>
   <body>
@@ -264,9 +203,6 @@
         </div>
       </div>
     </div>
-
-    <!-- Scroll Progress Bar -->
-    <div id="scroll-progress"></div>
     
     <lightonly>
       <div id="headcolor">
@@ -483,7 +419,6 @@
         {% if site.position %}
         <position style="font-size:1.10rem;">{{ site.position }}</position>
         <br>
-        <p class="typewriter" id="typewriter"></p>
         {% endif %}
         {% if site.affiliation %}
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
@@ -562,77 +497,15 @@
       </footer>
     </div>
     <script>
-      // Loader - only show on first visit
       window.addEventListener("DOMContentLoaded", function () {
         const loader = document.getElementById("loader");
-        const isLanguageSwitch = sessionStorage.getItem('languageSwitch') === 'true';
+        const content = document.querySelector(".wrapper");
         
-        if (isLanguageSwitch) {
-          // Skip loader for language switch
-          loader.style.display = 'none';
-          sessionStorage.removeItem('languageSwitch');
-        } else {
-          // Show loader for first visit
-          setTimeout(() => {
-            loader.classList.add("hide");
-          }, 2500);
-        }
+        // Hide loader after page is ready
+        setTimeout(() => {
+          loader.classList.add("hide");
+        }, 2500);
       });
-
-      // Scroll Progress Bar
-      window.addEventListener("scroll", () => {
-        const scrollTop = window.scrollY;
-        const docHeight = document.documentElement.scrollHeight - window.innerHeight;
-        const progress = (scrollTop / docHeight) * 100;
-        document.getElementById("scroll-progress").style.width = progress + "%";
-      });
-
-      // Typewriter Effect
-      function startTypewriter() {
-        const isChinese = window.location.pathname.includes('index.zh.html');
-        const text = isChinese 
-          ? "算法工程师 | 计算机视觉 | 低阶视觉"
-          : "Algorithm Engineer | Computer Vision | Low-level Vision";
-        const el = document.getElementById("typewriter");
-        if (!el) return;
-        
-        let i = 0;
-        el.textContent = '';
-        
-        function type() {
-          if (i < text.length) {
-            el.textContent += text.charAt(i);
-            i++;
-            setTimeout(type, 60);
-          }
-        }
-        
-        // Start after loader is hidden
-        setTimeout(type, 2600);
-      }
-      
-      // Reveal Animation
-      function revealOnScroll() {
-        const reveals = document.querySelectorAll("section, .bibliography, h3");
-        const windowHeight = window.innerHeight;
-        
-        reveals.forEach((item, index) => {
-          const elementTop = item.getBoundingClientRect().top;
-          if (elementTop < windowHeight - 100) {
-            setTimeout(() => {
-              item.classList.add("active");
-            }, index * 100);
-          }
-        });
-      }
-
-      // Initialize
-      window.addEventListener("DOMContentLoaded", function() {
-        startTypewriter();
-        revealOnScroll();
-      });
-      
-      window.addEventListener("scroll", revealOnScroll);
     </script>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
