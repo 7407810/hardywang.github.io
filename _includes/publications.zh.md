@@ -13,7 +13,7 @@
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">IEEE TCSVT</abbr> </div>
+  <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">TCSVT</abbr> </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">VCR：面向鲁棒低光照增强的方差驱动通道重校准</div>
     <div class="author">程志新, 张方文, 殷小天, 殷保群, <b style="color:#a82e26">汪昊典</b><span class="superscript">&#9993;</span></div>

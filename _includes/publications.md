@@ -17,7 +17,7 @@ I marked my name in <b style="color:#a82e26" class="color-description">Red</b> i
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">IEEE TCSVT</abbr> </div>
+  <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">TCSVT</abbr> </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">VCR: Variance-Driven Channel Recalibration for Robust Low-Light Enhancement</div>
     <div class="author">Z Cheng, F Zhang, X Yin, B Yin, <b style="color:#a82e26">H Wang</b></div>
