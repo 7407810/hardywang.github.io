@@ -4,8 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Research Scientist at Chn Energy Digital Intelligence Technology Development (Beijing) CO., LTD. I obtained my Master's degree from the University of Science and Technology of China (USTC) in 2023, and prior to that, I completed my undergraduate studies at North China Electric Power University.
-
+I am a Algorithm Engineer at Chn Energy Digital Intelligence Technology Development (Beijing) CO., LTD. In 2020, I was admitted to the master’s program at the University of Science and Technology of China, ranking first in my major. I graduated in 2023 and was recognized as an Outstanding Graduate. Prior to that, I received my bachelor’s degree from North China Electric Power University.
 
 ## Research Interests
 
@@ -15,6 +14,8 @@ My research focuses on the exciting field of image enhancement and its practical
 ## News
 
 <ul>
+  <li><strong>[2026-04-26]</strong> One paper is accepted to IEEE TCSVT.</li>
+  <li><strong>[2026-01-22]</strong> Two papers are accepted to ICASSP 2026.</li>
   <li><strong>[2025-09-21]</strong> One paper is accepted to PRCV 2025.</li>
   <li><strong>[2025-04-28]</strong> One paper is accepted to ICIC 2025 as <strong>Oral</strong>.</li>
   <li><strong>[2024-10-24]</strong> One paper is accepted to MMM 2025.</li>

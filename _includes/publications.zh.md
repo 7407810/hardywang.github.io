@@ -9,6 +9,41 @@
 
 <ol class="bibliography">
 
+<h3 class="bibliography-year" style="font-size: 1.3rem; padding-bottom:5px; border-bottom: 1px solid #ddd;"> 2026 </h3>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">IEEE TCSVT</abbr> </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">VCR：面向鲁棒低光照增强的方差驱动通道重校准</div>
+    <div class="author">程志新, 张方文, 殷小天, 殷保群, <b style="color:#a82e26">汪昊典</b><span class="superscript">&#9993;</span></div>
+    <div class="periodical"><em>IEEE视频技术电路与系统汇刊 (TCSVT), 2026.</em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">ICASSP</abbr> </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">面向异质光照的区域感知亮度自适应增强范式</div>
+    <div class="author"><b style="color:#a82e26">汪昊典</b><span class="superscript">&#9993;</span>, 李冉<span class="superscript">&#9993;</span>, 闫力维, 宋亚齐, 刘浩然<span class="superscript">&#9993;</span>, 于林坤</div>
+    <div class="periodical"><em>IEEE声学语音与信号处理国际会议 (ICASSP), 2026: 11082-11086.</em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">ICASSP</abbr> </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">基于显著性引导Transformer的全切片图像小细胞检测增强</div>
+    <div class="author">于林坤, 陈逸豪, 严千喜, 饶文迪, 刘静怡, 沈飞, 吴王玉, 汪昊典, 韩晶鑫</div>
+    <div class="periodical"><em>IEEE声学语音与信号处理国际会议 (ICASSP), 2026: 6776-6780.</em></div>
+  </div>
+</div>
+</li>
+
 <!-- 2025年 -->
 <h3 class="bibliography-year" style="font-size: 1.3rem; padding-bottom:5px; border-bottom: 1px solid #ddd;"> 2025 </h3>
 

@@ -13,6 +13,43 @@ I marked my name in <b style="color:#a82e26" class="color-description">Red</b> i
 
 <ol class="bibliography">
 
+<h3 class="bibliography-year" style="font-size: 1.3rem; padding-bottom:5px; border-bottom: 1px solid #ddd;"> 2026 </h3>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">IEEE TCSVT</abbr> </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">VCR: Variance-Driven Channel Recalibration for Robust Low-Light Enhancement</div>
+    <div class="author">Z Cheng, F Zhang, X Yin, B Yin, <b style="color:#a82e26">H Wang</b></div>
+    <div class="periodical"><em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2026.</em></div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">ICASSP</abbr> </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Region-Aware Brightness-Adaptive Enhancement Paradigm for Heterogeneous Illumination</div>
+    <div class="author"><b style="color:#a82e26">H Wang</b>, R Li, L Yan, Y Song, H Liu, L Yu</div>
+    <div class="periodical"><em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026: 11082-11086.</em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">ICASSP</abbr> </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Enhancing Small Cell Detection in Whole Slide Images with Saliency-Guided Transformers</div>
+    <div class="author">L Yu, Y Chen, Q Yan, W Rao, J Liu, F Shen, W Wu, H Wang, J Hang</div>
+    <div class="periodical"><em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026: 6776-6780.</em></div>
+  </div>
+</div>
+</li>
+
+
 <!-- 2025年 -->
 <h3 class="bibliography-year" style="font-size: 1.3rem; padding-bottom:5px; border-bottom: 1px solid #ddd;"> 2025 </h3>
 
